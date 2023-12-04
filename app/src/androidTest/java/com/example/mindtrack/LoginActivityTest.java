@@ -14,7 +14,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withId;
 
 import com.example.mindtrack.LoginActivity;
 import com.example.mindtrack.R;
-
+//Added Intent Tests per rubric requirements
 @RunWith(AndroidJUnit4.class)
 public class LoginActivityTest {
 
